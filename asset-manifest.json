@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-mdgk40/static/css/main.ff0d6d32.chunk.css",
-    "main.js": "https://.github.io/csb-mdgk40/static/js/main.d8b611f2.chunk.js",
-    "main.js.map": "https://.github.io/csb-mdgk40/static/js/main.d8b611f2.chunk.js.map",
-    "runtime~main.js": "https://.github.io/csb-mdgk40/static/js/runtime~main.8c23a863.js",
-    "runtime~main.js.map": "https://.github.io/csb-mdgk40/static/js/runtime~main.8c23a863.js.map",
-    "static/js/2.5942a445.chunk.js": "https://.github.io/csb-mdgk40/static/js/2.5942a445.chunk.js",
-    "static/js/2.5942a445.chunk.js.map": "https://.github.io/csb-mdgk40/static/js/2.5942a445.chunk.js.map",
-    "index.html": "https://.github.io/csb-mdgk40/index.html",
-    "precache-manifest.8b88e4208abe958cb39c319f9d4d6097.js": "https://.github.io/csb-mdgk40/precache-manifest.8b88e4208abe958cb39c319f9d4d6097.js",
-    "service-worker.js": "https://.github.io/csb-mdgk40/service-worker.js",
-    "static/css/main.ff0d6d32.chunk.css.map": "https://.github.io/csb-mdgk40/static/css/main.ff0d6d32.chunk.css.map"
+    "main.css": "https://aimorpheus.github.io/csb-mdgk40/static/css/main.d05224ef.chunk.css",
+    "main.js": "https://aimorpheus.github.io/csb-mdgk40/static/js/main.4d666d2f.chunk.js",
+    "main.js.map": "https://aimorpheus.github.io/csb-mdgk40/static/js/main.4d666d2f.chunk.js.map",
+    "runtime~main.js": "https://aimorpheus.github.io/csb-mdgk40/static/js/runtime~main.8cbc8ec0.js",
+    "runtime~main.js.map": "https://aimorpheus.github.io/csb-mdgk40/static/js/runtime~main.8cbc8ec0.js.map",
+    "static/js/2.5942a445.chunk.js": "https://aimorpheus.github.io/csb-mdgk40/static/js/2.5942a445.chunk.js",
+    "static/js/2.5942a445.chunk.js.map": "https://aimorpheus.github.io/csb-mdgk40/static/js/2.5942a445.chunk.js.map",
+    "index.html": "https://aimorpheus.github.io/csb-mdgk40/index.html",
+    "precache-manifest.277bd8fbc6c8d8cfbbca431808f135b8.js": "https://aimorpheus.github.io/csb-mdgk40/precache-manifest.277bd8fbc6c8d8cfbbca431808f135b8.js",
+    "service-worker.js": "https://aimorpheus.github.io/csb-mdgk40/service-worker.js",
+    "static/css/main.d05224ef.chunk.css.map": "https://aimorpheus.github.io/csb-mdgk40/static/css/main.d05224ef.chunk.css.map"
   }
 }
