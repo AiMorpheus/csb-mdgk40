@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42cbb261fb53a6d69bfcbd4e414ab264",
+    "revision": "18465439c1c1517340ba33fee108d62d",
     "url": "https://aimorpheus.github.io/csb-mdgk40/index.html"
   },
   {
-    "revision": "3aa060a62396c8425cb4",
+    "revision": "64d4effec5278486a700",
     "url": "https://aimorpheus.github.io/csb-mdgk40/static/css/main.d05224ef.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://aimorpheus.github.io/csb-mdgk40/static/js/2.5942a445.chunk.js"
   },
   {
-    "revision": "3aa060a62396c8425cb4",
-    "url": "https://aimorpheus.github.io/csb-mdgk40/static/js/main.16cc62b6.chunk.js"
+    "revision": "64d4effec5278486a700",
+    "url": "https://aimorpheus.github.io/csb-mdgk40/static/js/main.ff745279.chunk.js"
   },
   {
     "revision": "c49a495d7b488171110f",

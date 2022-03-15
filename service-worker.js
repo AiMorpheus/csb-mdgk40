@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://aimorpheus.github.io/csb-mdgk40/precache-manifest.815f0ca8f5fda8ce101cd346d0707630.js"
+  "https://aimorpheus.github.io/csb-mdgk40/precache-manifest.58b08decda6cb7abe77acfeb48d1ca47.js"
 );
 
 self.addEventListener('message', (event) => {
