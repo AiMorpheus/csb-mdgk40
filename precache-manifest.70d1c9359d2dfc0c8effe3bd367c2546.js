@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f257339e79751076897f0a0cfb9c979",
+    "revision": "6d03ae73a5d8c4ec70a3e7ed674b824d",
     "url": "https://.github.io/csb-mdgk40/index.html"
   },
   {
-    "revision": "36a0a053d1a2859ec58f",
+    "revision": "3a7c70cfbe080af8240c",
     "url": "https://.github.io/csb-mdgk40/static/css/main.ff0d6d32.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://.github.io/csb-mdgk40/static/js/2.5942a445.chunk.js"
   },
   {
-    "revision": "36a0a053d1a2859ec58f",
-    "url": "https://.github.io/csb-mdgk40/static/js/main.7a31c0b0.chunk.js"
+    "revision": "3a7c70cfbe080af8240c",
+    "url": "https://.github.io/csb-mdgk40/static/js/main.34ca8b59.chunk.js"
   },
   {
     "revision": "1c113d1545330f82104e",
